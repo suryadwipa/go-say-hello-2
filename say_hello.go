@@ -1,5 +1,6 @@
-package go_say_hello
+package sayhello
 
-func SayHello() string (){
-	return "hello"
+// SayHello is a nice function
+func SayHello() string {
+	return "hello world, this is updated brooo"
 }
